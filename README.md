@@ -20,6 +20,8 @@
 
 <br />
 
+<img width="100%" alt="game gif" src="https://qny.volcanoblog.cn/github-contribution-grid-snake.svg"/>
+
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=top-zhang&count_private=true&show_icons=true"/>
 
 
