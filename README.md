@@ -11,7 +11,7 @@
 
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 Technologies & Tools
 ![java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
 ![go](https://img.shields.io/badge/-go-333333?style=flat&logo=go)
 ![mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
