@@ -7,7 +7,7 @@
 
 📈 my github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=top-zhang&show_icons=true&theme=panda" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=zhangwt-cn&show_icons=true&theme=panda" alt="GitHub Stats" />
 
 
 
