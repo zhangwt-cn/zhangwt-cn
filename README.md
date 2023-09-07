@@ -3,7 +3,6 @@
 
 <br />
 
-<img width="100%" alt="game gif" src="https://qny.volcanoblog.cn/github-contribution-grid-snake.svg"/>
 
 📈 my github stats
 
