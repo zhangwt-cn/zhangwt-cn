@@ -1,4 +1,3 @@
-# About me :sparkles:
 - 👋 Hi, I’m @zhangwt
 - 🌱 I’m currently learning English
 
