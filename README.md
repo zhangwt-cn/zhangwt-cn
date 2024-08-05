@@ -1,6 +1,7 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 - 👋&nbsp;Hi, I’m @zhangwt
 - 🌱&nbsp;I’m currently learning English
+- 😉&nbsp;My blog post [here](https://github.com/zhangwt-cn/notes/issues)
 
 ### :books: read
 - [ ] Hackers & Painters (Chinese Version)
