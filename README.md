@@ -4,7 +4,7 @@
 - 😉&nbsp;My blog post [here](https://github.com/zhangwt-cn/notes/issues)
 
 ### :books: read
-- [ ] Hackers & Painters (Chinese Version)
+- [x] Hackers & Painters (Chinese Version)
 - [x] Java 并发编程的艺术
 - [x] Java Concurrency in Practice （Chinese Version）
 - [x] How to Red a Book (Chinese Version)
